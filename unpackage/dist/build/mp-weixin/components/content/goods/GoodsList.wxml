@@ -1,0 +1,1 @@
+<view class="goods-list data-v-9176f00c"><block wx:for="{{goods}}" wx:for-item="item" wx:for-index="index"><view class="goos-item data-v-9176f00c"><goods-list-item vue-id="{{'40651c4c-1-'+index}}" goods-item="{{item}}" class="data-v-9176f00c" bind:__l="__l"></goods-list-item></view></block></view>

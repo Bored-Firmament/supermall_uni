@@ -1,0 +1,1 @@
+<view class="category-menu"><block wx:for="{{category}}" wx:for-item="item" wx:for-index="index" wx:key="maitKey"><view data-event-opts="{{[['tap',[['clickItem',[index]]]]]}}" class="{{['category-menu-item',(currentIndex===index)?'select-item':'']}}" bindtap="__e"><text>{{item.title}}</text></view></block></view>

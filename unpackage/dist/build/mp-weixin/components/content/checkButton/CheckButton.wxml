@@ -1,0 +1,1 @@
+<view class="{{['check-button','data-v-552827b1',(isCheck)?'checked':'']}}"><uni-icons vue-id="1cf6d102-1" type="checkmarkempty" size="22" color="#fff" class="data-v-552827b1" bind:__l="__l"></uni-icons></view>

@@ -1,0 +1,11 @@
+{
+  "onReachBottomDistance": 200,
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "home-swiper": "/pages/home/homeCpns/HomeSwiper",
+    "home-recommend": "/pages/home/homeCpns/HomeRecommend",
+    "tab-control": "/components/content/tabControl/TabControl",
+    "goods-list": "/components/content/goods/GoodsList",
+    "back-top": "/components/content/backTop/BackTop"
+  }
+}

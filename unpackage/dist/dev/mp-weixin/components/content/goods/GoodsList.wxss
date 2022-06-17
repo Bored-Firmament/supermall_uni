@@ -1,0 +1,11 @@
+
+.goods-list.data-v-1297e3fa {
+  background-color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+}
+.goos-item.data-v-1297e3fa {
+  width: 47%;
+  margin-left: 2%;
+}
+

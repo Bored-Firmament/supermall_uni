@@ -1,0 +1,1 @@
+<view class="content" id="profile"><user-info vue-id="23b2e5ec-1" bind:__l="__l"></user-info><user-special-info vue-id="23b2e5ec-2" bind:__l="__l"></user-special-info><menu-list-view vue-id="23b2e5ec-3" menu-list="{{menuList1}}" bind:__l="__l"></menu-list-view><menu-list-view vue-id="23b2e5ec-4" menu-list="{{menuList2}}" bind:__l="__l"></menu-list-view></view>

@@ -1,0 +1,22 @@
+
+.detail-nav-bar.data-v-81deb230{
+  color: #666;
+}
+.back.data-v-81deb230{
+  text-align: center;
+}
+.back ._img.data-v-81deb230{
+  margin-top: 8px;
+  width: 25px;
+}
+.title.data-v-81deb230{
+  display: flex;
+}
+.title-item.data-v-81deb230{
+  flex: 1;
+  font-size: 13px;
+}
+.active.data-v-81deb230{
+  color: #FF8198;
+}
+

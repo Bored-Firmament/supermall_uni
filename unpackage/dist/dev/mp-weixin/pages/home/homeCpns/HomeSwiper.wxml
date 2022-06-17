@@ -1,0 +1,1 @@
+<view class="home-swiper"><swiper indicator-dots="{{true}}" autoplay="{{true}}" circular="{{true}}" interval="3000"><block wx:for="{{banners}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block><swiper-item><image src="{{item.image}}" alt="{{item.title}}" title="{{item.title}}"></image></swiper-item></block></block></swiper></view>

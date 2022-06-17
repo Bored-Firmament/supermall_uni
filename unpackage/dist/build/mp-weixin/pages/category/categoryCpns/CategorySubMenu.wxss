@@ -1,0 +1,2 @@
+.category-sub-menu{display:flex;flex-wrap:wrap}.category-sub-menu .sub-menu-item{box-sizing:border-box;width:33%;margin:16rpx 0;display:flex;flex-direction:column;text-align:center}.category-sub-menu .sub-menu-item image{width:140rpx;height:140rpx;margin:auto}.category-sub-menu .sub-menu-item text{margin-top:10rpx}.category-sub-menu .sub-menu-item:nth-child(3n+1),
+.category-sub-menu .sub-menu-item:nth-child(3n+2){margin-right:.5%}.category-sub-menu .select-item{border:1rpx solid #ccc;border-radius:10rpx;box-shadow:0 0 1rpx #000}

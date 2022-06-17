@@ -1,0 +1,20 @@
+
+.nav-bar.data-v-ff93bfb4{
+  width: 100%;
+  line-height: 44px;
+  height: 44px;
+  background-color: #fff;
+  color: #000;
+  display: flex;
+
+  box-shadow: 0 1px 1px rgba(100, 100, 100, .2);
+}
+.nav-bar-item.data-v-ff93bfb4{
+  width: 60px;
+}
+.nav-bar-item.data-v-ff93bfb4:nth-child(2){
+  flex: 1;
+  text-align: center;
+  font-size: 18px;
+}
+

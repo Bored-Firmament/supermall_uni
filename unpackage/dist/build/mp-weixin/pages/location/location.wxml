@@ -1,0 +1,1 @@
+<view class="content" id="location"><map latitude="{{latitude}}" longitude="{{longitude}}" markers="{{covers}}"></map><button data-event-opts="{{[['tap',[['getLocation',['$event']]]]]}}" class="locate-button" bindtap="__e">定位收货地址</button></view>

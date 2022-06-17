@@ -1,0 +1,1 @@
+<view class="home-recommend"><block wx:for="{{recommends}}" wx:for-item="item" wx:for-index="__i0__"><block class="recommend-item"><view class="recommend-item"><image src="{{item.image}}" alt="{{item.title}}" title="{{item.title}}"></image><text>{{item.title}}</text></view></block></block></view>

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "user-info": "/pages/profile/profileCpns/UserInfo",
+    "user-special-info": "/pages/profile/profileCpns/UserSpecialInfo",
+    "menu-list-view": "/pages/profile/profileCpns/MenuListView"
+  }
+}

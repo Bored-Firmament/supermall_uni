@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "cart-list": "/pages/shopcart/shopcartCpns/CartList",
+    "cart-bottom-bar": "/pages/shopcart/shopcartCpns/CartBottomBar"
+  }
+}

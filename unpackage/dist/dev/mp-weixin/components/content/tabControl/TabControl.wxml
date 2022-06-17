@@ -1,0 +1,1 @@
+<view class="tab-control"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index"><view data-event-opts="{{[['tap',[['clickTabItem',[index]]]]]}}" class="{{['tab-control-item',(currentIndex===index)?'tab-control-active':'']}}" bindtap="__e"><text>{{item}}</text></view></block></view>

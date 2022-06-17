@@ -1,0 +1,13 @@
+
+.check-button.data-v-4b41c084{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #aaa;
+  overflow: hidden;
+}
+.checked.data-v-4b41c084{
+  background-color: #FF8198;
+  border-color: #FF8198;
+}
+

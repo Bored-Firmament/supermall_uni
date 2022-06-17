@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['backTopClick',['$event']]]]]}}" class="back-top" bindtap="__e"><uni-icons class="top-icon" vue-id="6192a05a-1" type="arrow-up" size="50" bind:__l="__l"></uni-icons></view>

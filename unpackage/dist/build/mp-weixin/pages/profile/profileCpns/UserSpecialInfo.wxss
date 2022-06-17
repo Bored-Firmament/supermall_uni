@@ -1,0 +1,1 @@
+.user-special-info{display:flex;font-size:28rpx}.user-special-info .special-info-item{flex:1;text-align:center;padding:40rpx;background-color:#fff}.user-special-info .special-info-item:nth-child(2){margin:0 2rpx;border-left:1rpx solid #eee;border-right:1rpx solid #eee}.user-special-info text{font-size:44rpx;font-weight:700;color:#ff5f3e}

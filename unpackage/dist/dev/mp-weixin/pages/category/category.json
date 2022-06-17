@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "分类",
+  "usingComponents": {
+    "tab-control": "/components/content/tabControl/TabControl",
+    "goods-list": "/components/content/goods/GoodsList",
+    "category-menu": "/pages/category/categoryCpns/CategoryMenu",
+    "category-sub-menu": "/pages/category/categoryCpns/CategorySubMenu",
+    "back-top": "/components/content/backTop/BackTop"
+  }
+}

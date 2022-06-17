@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "check-button": "/components/content/checkButton/CheckButton"
+  }
+}

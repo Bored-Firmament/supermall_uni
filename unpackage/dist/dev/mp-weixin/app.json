@@ -1,0 +1,56 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/category/category",
+    "pages/shopcart/shopcart",
+    "pages/profile/profile",
+    "pages/detail/detail",
+    "pages/location/location"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "X-SHOP",
+    "navigationBarBackgroundColor": "#FF8198",
+    "backgroundColor": "#F8F8F8",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "color": "#8A8A8A",
+    "selectedColor": "#FF8198",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/home/home",
+        "iconPath": "static/icons/home.png",
+        "selectedIconPath": "static/icons/home_active.png"
+      },
+      {
+        "text": "分类",
+        "pagePath": "pages/category/category",
+        "iconPath": "static/icons/category.png",
+        "selectedIconPath": "static/icons/category_active.png"
+      },
+      {
+        "text": "购物车",
+        "pagePath": "pages/shopcart/shopcart",
+        "iconPath": "static/icons/shopcart.png",
+        "selectedIconPath": "static/icons/shopcart_active.png"
+      },
+      {
+        "text": "个人中心",
+        "pagePath": "pages/profile/profile",
+        "iconPath": "static/icons/profile.png",
+        "selectedIconPath": "static/icons/profile_active.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取用户位置"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

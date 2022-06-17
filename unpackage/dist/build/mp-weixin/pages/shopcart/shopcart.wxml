@@ -1,0 +1,1 @@
+<view class="content" id="shopcart"><scroll-view scroll-y="{{true}}"><cart-list vue-id="3216da80-1" bind:__l="__l"></cart-list></scroll-view><cart-bottom-bar vue-id="3216da80-2" bind:__l="__l"></cart-bottom-bar></view>

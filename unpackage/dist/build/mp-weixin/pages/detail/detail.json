@@ -1,0 +1,16 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "detail-nav-bar": "/pages/detail/detailCpns/DetailNavBar",
+    "detail-swiper": "/pages/detail/detailCpns/DetailSwiper",
+    "detail-base-info": "/pages/detail/detailCpns/DetailBaseInfo",
+    "detail-shop-info": "/pages/detail/detailCpns/DetailShopInfo",
+    "detail-goods-info": "/pages/detail/detailCpns/DetailGoodsInfo",
+    "detail-param-info": "/pages/detail/detailCpns/DetailParamInfo",
+    "detail-comment": "/pages/detail/detailCpns/DetailComment",
+    "detail-recommend": "/pages/detail/detailCpns/DetailRecommend",
+    "detail-bottom-bar": "/pages/detail/detailCpns/DetailBottomBar",
+    "back-top": "/components/content/backTop/BackTop"
+  }
+}
